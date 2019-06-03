@@ -5,3 +5,5 @@ installed virtualenv
 installed requirements from requirements-dev.txt
 set up git for push and pull
 set up rule to not push to master
+Set up TravisCI
+Set up SonarCloud
