@@ -1,0 +1,7 @@
+Went over what got done on weekend
+Have to figure out how to install virtualenv on computer
+Looked up how to install virtualenv
+installed virtualenv
+installed requirements from requirements-dev.txt
+set up git for push and pull
+set up rule to not push to master
