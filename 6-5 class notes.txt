@@ -1,0 +1,5 @@
+Problems should be addressed by complexity and chose language accordingly
+working memory of human is 7/+-2
+programs increase in complexity due to more code
+lots of different important applications have had disasterous bugs
+ 
