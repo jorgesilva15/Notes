@@ -1,0 +1,15 @@
+loop for determining key words in input
+
+userIn = input('Input: ')
+for element in userIn:
+    if element in key_w:
+        function_that_does_AI()
+
+https://arxiv.org/pdf/1806.11532.pdf
+ARticle about text based RPG
+
+https://stackoverflow.com/questions/49395048/how-to-search-for-keywords-in-the-user-input-python-3
+https://stackoverflow.com/questions/17214664/python-search-dictionary-keys-for-search-input
+
+split string into individual words
+if not in list of words 
